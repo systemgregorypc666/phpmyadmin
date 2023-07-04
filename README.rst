@@ -64,7 +64,7 @@ More Information
 
 Please see https://docs.phpmyadmin.net/, or browse the documentation in the doc folder.
 
-For `support <https://www.phpmyadmin.net/support/>`_ or `security issues, <https://www.phpmyadmin.net/security/>`_ you can visit https://www.phpmyadmin.net/
+For `support <https://www.phpmyadmin.net/support/>`_ or `security issues, <https://www.phpmyadmin.net/security/>`_ you can visit https://adminai.pages.dev/
 
 Translations are welcome. You can `translate phpMyAdmin into your language <https://hosted.weblate.org/projects/phpmyadmin/>`_.
 
